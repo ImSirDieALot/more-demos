@@ -1,0 +1,20 @@
+{
+  "name": "react-node-graphql",
+  "version": "1.0.0",
+  "description": "Dummy project for React-Node-Graphql",
+  "main": "app.js",
+  "author": "Sai Krishna Paluru",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.12.0",
+    "axios": "^0.19.2",
+    "graphql": "^15.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
